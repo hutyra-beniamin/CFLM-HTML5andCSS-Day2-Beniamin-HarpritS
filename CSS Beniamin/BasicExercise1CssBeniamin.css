@@ -1,0 +1,23 @@
+div {
+	
+	margin:5px;
+}
+
+#third > p {
+	visibility:hidden;
+}
+
+h1 {
+	display:none;
+}
+
+#first .left {
+	visibility:hidden;
+}
+#second .right {
+	visibility:hidden;
+}
+
+#second .right img {
+	visibility:visible;
+}
