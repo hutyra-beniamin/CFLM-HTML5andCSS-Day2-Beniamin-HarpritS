@@ -1,9 +1,13 @@
 .header{
-	 padding: 60px;
-  text-align: center;
+	padding:auto;
+  text-align: left;
   background: #1abc9c;
   color: white;
   font-size: 30px;
+  width:auto;
+  position:fixed;
+  margin:auto;
+
 }
 
 .sidebar{
@@ -13,4 +17,11 @@
 
 .maincontent{
 	margin-left: 180px;
+	text-align:left;
+}
+img {
+	width:60%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
