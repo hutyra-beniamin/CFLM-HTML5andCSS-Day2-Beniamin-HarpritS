@@ -1,0 +1,16 @@
+.header{
+	 padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+.sidebar{
+	background-color: #1abc9c;
+	width: 25%;
+  }
+
+.maincontent{
+	margin-left: 180px;
+}
